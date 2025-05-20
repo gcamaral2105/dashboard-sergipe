@@ -1276,4 +1276,4 @@ def update_figura_publica_graph(figura_col, filtros_aplicados):
 
 # Executar o aplicativo
 if __name__ == '__main__':
-    app.run_server(debug=False, host:'0.0.0.0')
+    app.run_server(debug=False, host='0.0.0.0')
